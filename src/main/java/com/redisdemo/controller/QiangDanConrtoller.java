@@ -19,6 +19,7 @@ import java.util.stream.IntStream;
  * @Auther: cdc
  * @Date: 2020/2/27 15:14
  * @Description: 模拟抢单，并发测试redis分布式锁
+ * 链接：https://mp.weixin.qq.com/s/sat9UJGvmtWvo1kfB-zD3A 或者印象笔记
  */
 
 @Controller
